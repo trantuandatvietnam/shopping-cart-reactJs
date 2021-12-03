@@ -15,7 +15,7 @@ function DataProvider(props) {
       ],
       description: "Áo bẹt đẹp, giá tốt, thích hợp cho chị em đi chơi, đi làm",
       content:
-        "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        "Thiết kế họa tiết ngựa vằn với chất liệu lụa mát mẻ trẻ trung chi tiết cổ khóet cực kỳ điệu đà giúp tôn thêm vẻ đẹp của người mặc.",
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 101,
@@ -31,9 +31,9 @@ function DataProvider(props) {
         "https://product.hstatic.net/200000000131/product/do-03_b13efcca72db4bf080fbe60372a51187_master.jpg",
       ],
       description:
-        "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
+        "Vải lụa là chất liệu vải có bề mặt mỏng, mịn, cảm giác mềm mướt khi chạm tay vào.",
       content:
-        "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        "Khả năng thấm hút mồ hôi tốt tạo sự thoáng mát khi mặc và không gây kích ứng da.",
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 102,
@@ -49,9 +49,9 @@ function DataProvider(props) {
         "https://product.hstatic.net/200000000131/product/den-1_e62c1b42af7e478fab7f1caf20589e8b_master.jpg",
       ],
       description:
-        "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
+        "Chất liệu: Dạ mịn có nguồn gốc từ các sợi thiên nhiên có ưu điểm nổi trội là giữ ấm, giữ nhiệt tốt. Bề mặt vải mềm mịn, độ bền cao, có tính đàn hồi tốt, là chất liệu tuyệt vời để tạo nên những chiếc áo khoác duyên dáng, cuốn hút trong những ngày đại hàn.",
       content:
-        "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        "Thiết kế áo khoác dáng croptop hơi A mang đến sự phóng khoáng. Cổ 2 ve thanh lịch. Áo 1 cúc, đai eo tạo điểm nhấn cho chiếc áo. Dễ kết hợp với cả đầm hoặc set đồ. Hoặc chân váy ghép bộ làm tăng thêm sự thanh lịch, thời thượng cho bạn gái. Phù hợp cả đi làm lẫn đi chơi dạo phố.",
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 103,
@@ -67,9 +67,9 @@ function DataProvider(props) {
         "https://product.hstatic.net/200000000131/product/den-4_fa816f6df2894135acf6cf4026223f0d_master.jpg",
       ],
       description:
-        "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
+        "Chất liệu : Một lớp len montoghi Mô tả sản phẩm : Áo len dáng ôm, cổ tròn, tay dài loe, gấu tay dệt bèo.Thông số sản phẩm : (Dài áo)*(Ngực)*(Dài tay)",
       content:
-        "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        "Mô tả sản phẩm : Dáng xòe, cúp ngực xếp nếp, kéo khóa giọt lệ sau lưng, tùng xòe, tay áo xếp nếp vai bồng.",
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 104,
@@ -85,9 +85,9 @@ function DataProvider(props) {
         "https://product.hstatic.net/200000000131/product/kem-01_4f5b1eeba53341d89d1acecc3749978e_master.jpg",
       ],
       description:
-        "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
+        "Chất liệu: Dạ mịn có nguồn gốc từ các sợi thiên nhiên có ưu điểm nổi trội là giữ ấm, giữ nhiệt tốt. Bề mặt vải mềm mịn, độ bền cao, có tính đàn hồi tốt, là chất liệu tuyệt vời để tạo nên những chiếc áo khoác duyên dáng, cuốn hút trong những ngày đại hàn.",
       content:
-        "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        "Thiết kế áo khoác dáng croptop hơi A mang đến sự phóng khoáng. Cổ 2 ve thanh lịch. Áo 1 cúc, đai eo tạo điểm nhấn cho chiếc áo. Dễ kết hợp với cả đầm hoặc set đồ. Hoặc chân váy ghép bộ làm tăng thêm sự thanh lịch, thời thượng cho bạn gái. Phù hợp cả đi làm lẫn đi chơi dạo phố.",
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 105,
@@ -103,9 +103,9 @@ function DataProvider(props) {
         "https://product.hstatic.net/200000000131/product/nau-02_97a6122b3cca499d82613af93b07aff1_master.jpg",
       ],
       description:
-        "How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.",
+        "Chất liệu : Một lớp len montoghi Mô tả sản phẩm : Áo len dáng ôm, cổ tròn, tay dài loe, gấu tay dệt bèo. Thông số sản phẩm : (Dài áo)*(Ngực)*(Dài tay)",
       content:
-        "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        "Mô tả sản phẩm : Dáng xòe, cúp ngực xếp nếp, kéo khóa giọt lệ sau lưng, tùng xòe, tay áo xếp nếp vai bồng.Thông số sản phẩm : (Dài)*(Ngực)*(Eo)",
       colors: ["red", "black", "teal"],
       sizes: ["XL", "L", "M", "XM", "LX"],
       price: 106,
